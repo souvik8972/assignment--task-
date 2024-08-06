@@ -107,7 +107,7 @@ const Home = () => {
       >
         <Lottie animationData={lottieJson} loop={true} />
       </motion.div>
-        <Footer />
+        
     </div>
   );
 };
