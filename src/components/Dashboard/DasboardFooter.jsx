@@ -11,7 +11,7 @@ const DashboardFooter = () => {
   const defaultClassName = "text-gray-500"; // Default class
 
   return (
-    <div className="h-[10vh] bg-gray-100 flex justify-around items-center shadow-md border-t border-gray-300">
+    <div className="h-[10vh] bg-white flex justify-around items-center shadow-md border-t border-gray-300">
       {/* Home Icon */}
       <NavLink
         to="/dashboard"
